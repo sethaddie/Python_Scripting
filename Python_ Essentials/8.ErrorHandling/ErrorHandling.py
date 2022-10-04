@@ -5,7 +5,7 @@ while True:
          break
 
     except:
-        print("Warning bruh!!!, this is not allowed here")
+        print("Warning bruh!!!, this is not allowed here boa!!!")
         
 
 
