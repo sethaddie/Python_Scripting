@@ -1,0 +1,1 @@
+print('"I\'m"',end="\n"'""learning""'"\n"'"""Python"""')
