@@ -1,6 +1,6 @@
 while True:
     try:
-         num=int(input("Enter number here:"))
+         num=int(input("Enter number here boa!!!!:"))
          print("The result is", num/2)
          break
 
